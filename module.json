@@ -1,0 +1,18 @@
+{
+    "id": "expenses",
+    "name": "Expenses Management Module",
+    "version": "1.0.0",
+    "description": "إدارة المصروفات التشغيلية للمنشأة والتقارير المالية.",
+    "compatibility": {
+        "platform": "^1.0.0"
+    },
+    "requirements": {
+        "php": "^8.3",
+        "laravel": "^11.0",
+        "extensions": [
+            "pdo",
+            "json"
+        ]
+    },
+    "dependencies": {}
+}

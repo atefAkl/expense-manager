@@ -1,0 +1,14 @@
+{
+    "name": "aql/expenses-module",
+    "description": "AQL Platform - Expenses Management Standalone Module",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aql\\Expenses\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.3"
+    }
+}
